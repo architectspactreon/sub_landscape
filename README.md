@@ -3,7 +3,7 @@
 
 Map through the uncharted terrain of Substrate & Polkadot technologies.
 
-Reference to [CNCF](https://www.cncf.io) Cloud Native Landscape Project
+Took motivation & referred to [CNCF](https://www.cncf.io) Cloud Native Landscape Project
 .
 
 ## How to Run on your computer:
